@@ -22,6 +22,8 @@ Create an Expo Project to write a React-Native Code.
 
 ![image](https://user-images.githubusercontent.com/50888979/152570919-aff283f3-386b-4954-bd0b-f8a74bc9f68e.png)
 
+Fonts used : Roboto and Kredit Font
+
 
 ---
 
